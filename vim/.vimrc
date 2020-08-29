@@ -18,7 +18,7 @@ Plugin 'christoomey/vim-tmux-navigator'
 " Vimux, to send commands smoothly to Tmux with just one key press.
 Plugin 'benmills/vimux'
 
-" Anotehr plugin to check the synthax.
+" Another plugin to check the synthax.
 "Plugin 'vim-syntastic/syntastic'
 
 " Get warning when something is wrong in the python code.
