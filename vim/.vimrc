@@ -1,3 +1,6 @@
+"
+" PLUGLINS.
+"
 set nocompatible              " required
 filetype off                  " required
 
@@ -17,6 +20,9 @@ Plugin 'christoomey/vim-tmux-navigator'
 
 " Vimux, to send commands smoothly to Tmux with just one key press.
 Plugin 'benmills/vimux'
+
+" CtrP for fuzzy file searching.
+Plugin 'ctrlpvim/ctrlp.vim'
 
 " Another plugin to check the synthax.
 "Plugin 'vim-syntastic/syntastic'
